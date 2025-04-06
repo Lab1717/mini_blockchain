@@ -37,4 +37,22 @@ Instead of adjusting the difficulty based on how long mining takes (which would 
 4. **Wipe Blockchain & Wallet**: Reset everything and start fresh.
 5. **Exit**: Close the program when you're done.
 
+### How to Run the Code
+
+1. **Install Python**: Make sure you have Python installed on your computer. You can download it from [python.org](https://www.python.org/).
+   
+2. **Download the Code**: Copy the Python code into a new file, for example `mini_blockchain.py`.
+
+3. **Run the Program**:
+   - Open your terminal or command prompt.
+   - Navigate to the folder where your `mini_blockchain.py` file is located.
+   - Run the program with the following command:
+     ```
+     python mini_blockchain.py
+     ```
+
+4. **Interact with the Program**:
+   - The program will present you with a menu.
+   - Choose options to start mining, view the blockchain, check your wallet, or reset everything.
+
 Enjoy mining and exploring how blockchain works!
