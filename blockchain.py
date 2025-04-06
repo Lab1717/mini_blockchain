@@ -19,7 +19,7 @@ def get_difficulty(chain):
         return INITIAL_DIFFICULTY
     prev_difficulty = chain[-1]['difficulty']
     if len(chain) % 2 == 0:
-        new_difficulty = prev_difficulty * 1.01
+        new_difficulty = prev_difficulty * 1.02
         print(f"\nBlock count reached: {len(chain)}. Increasing difficulty to: {new_difficulty:.2f}")
         return new_difficulty
     return prev_difficulty
