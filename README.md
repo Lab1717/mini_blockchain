@@ -1,4 +1,4 @@
-# Mini Blockchain Demo 🛠️
+# Mini Blockchain 🛠️
 
 Welcome to the **Mini Blockchain**! This program lets you experience how **Bitcoin mining** works with simple code. It’s designed for fun, and you’ll learn how blocks are mined and rewards are earned!
 
