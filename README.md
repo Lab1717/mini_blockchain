@@ -41,7 +41,7 @@ Instead of adjusting the difficulty based on how long mining takes (which would 
 
 1. **Install Python**: Make sure you have Python installed on your computer. You can download it from [python.org](https://www.python.org/).
    
-2. **Download the Code**: Copy the Python code into a new file, for example `mini_blockchain.py`.
+2. **Download the Code**: Copy the Python code into a new file, for example `blockchain.py`.
 
 3. **Run the Program**:
    - Open your terminal or command prompt.
