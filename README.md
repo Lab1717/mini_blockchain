@@ -6,7 +6,7 @@ Welcome to the **Mini Blockchain**! This program lets you experience how **Bitco
 
 1. **Mining a Block**: To mine a block, you need to find the correct **nonce** (a number) that, when combined with the block’s data, creates a **hash** smaller than a specific target number. This is done using **SHA-256**, a special math function.
    
-2. **Difficulty**: Mining becomes harder over time. After every even-numbered block, the **difficulty** increases by **1%**, which means it will take longer to find the right nonce. This keeps mining challenging.
+2. **Difficulty**: Mining becomes harder over time. After every even-numbered block, the **difficulty** increases by **2%**, which means it will take longer to find the right nonce. This keeps mining challenging.
 
 3. **Block Reward**: When a block is mined, the miner earns a reward in **Bitcoin**. The reward starts at **50 BTC** but gets halved every few blocks (called **halving**), just like in real Bitcoin mining.
 
