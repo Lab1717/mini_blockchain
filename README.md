@@ -24,7 +24,7 @@ Instead of adjusting the difficulty based on how long mining takes (which would 
 
 ### Features
 
-- **Progressive Difficulty**: Difficulty increases by 1% every even-numbered block.
+- **Progressive Difficulty**: Difficulty increases by 2% every even-numbered block.
 - **Halving Reward**: Block rewards start at 50 BTC and get halved.
 - **Wallet**: Track your Bitcoin balance as you mine blocks.
 - **Blockchain**: View the blocks you’ve mined so far!
