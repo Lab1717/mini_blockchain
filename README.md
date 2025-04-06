@@ -20,7 +20,7 @@ Welcome to the **Mini Blockchain**! This program lets you experience how **Bitco
 
 ### Why Difficulty Increases
 
-Instead of adjusting the difficulty based on how long mining takes (which would be too complex for this demo), we simply increase the **difficulty** by **1%** after every even-numbered block. This keeps things simple and fun, while still mimicking real-world Bitcoin mining.
+Instead of adjusting the difficulty based on how long mining takes (which would be too complex for this demo), we simply increase the **difficulty** by **2%** after every even-numbered block. This keeps things simple and fun, while still mimicking real-world Bitcoin mining.
 
 ### Features
 
