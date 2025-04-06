@@ -45,7 +45,7 @@ Instead of adjusting the difficulty based on how long mining takes (which would 
 
 3. **Run the Program**:
    - Open your terminal or command prompt.
-   - Navigate to the folder where your `mini_blockchain.py` file is located.
+   - Navigate to the folder where your `blockchain.py` file is located.
    - Run the program with the following command:
      ```
      python mini_blockchain.py
